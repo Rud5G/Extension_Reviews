@@ -11,14 +11,14 @@ If you'd like to contribute to the project, just ping [@IvanChepurnyi](http://tw
 
 ## Installation
 
-### Install Composer
+### 1. Install Composer
 
 ```sh
 curl -s https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 ```
 
-### Install project
+### 2. Install project
 
 ```sh
 git clone git@github.com:IvanChepurnyi/Extension_Reviews.git path/to/project
@@ -26,6 +26,10 @@ cd path/to/project
 composer install
 ```
 
-### TBD
+### 3. Create VHost
+
+Create VHost in your webserver to **public** directory
+
+### 4. TBD
 
 
