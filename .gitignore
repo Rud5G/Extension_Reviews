@@ -3,6 +3,10 @@ vendor/*
 composer.*
 !composer.json
 
+# ZF 
+config/autoload/local.php
+data/cache/*
+
 # OSX FS 
 .DS_STORE
 # PHPStorm directories

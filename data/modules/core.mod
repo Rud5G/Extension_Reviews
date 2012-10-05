@@ -1,0 +1,3 @@
+!DoctrineModule
+!DoctrineORMModule
+!ExtReview\Core
