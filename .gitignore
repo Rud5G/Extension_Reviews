@@ -1,12 +1,11 @@
-# Bootstrap
-app/bootstrap*
-
-# Symfony directories
+# Composer files
 vendor/*
-*/logs/*
-*/cache/*
-web/uploads/*
-web/bundles/*
+composer.*
+!composer.json
 
-# Configuration files
-app/config/parameters.ini
+# OSX FS 
+.DS_STORE
+# PHPStorm directories
+.idea
+.settings
+
