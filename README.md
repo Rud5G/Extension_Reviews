@@ -30,6 +30,9 @@ composer install
 
 Create VHost in your webserver to **public** directory
 
-### 4. TBD
+### 4. Read the spec docs
+
+* [System functionlity in wiki](https://github.com/IvanChepurnyi/Extension_Reviews/wiki)
+
 
 
